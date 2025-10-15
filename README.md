@@ -95,4 +95,4 @@ python tournament.py
 ### 👨‍💻 Autores
 
 * **Cristiano Gomes de Paula Filho**
-* **Daniel Vessalli**
+* **Daniel Vessalli Merlim**
