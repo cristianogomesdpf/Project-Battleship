@@ -10,7 +10,7 @@ Este projeto foi desenvolvido para a disciplina de MC102 e consiste na criação
 
 Abaixo, uma demonstração do bot em uma partida completa, desde o primeiro tiro até a vitória.
 
-![Demonstração do Bot em Ação](https://github.com/user/repo/assets/...)
+![Demonstração do bot](https://github.com/user-attachments/assets/66741728-30d2-480f-96c8-8d5b6168fbc1)
 
 ---
 
